@@ -11,4 +11,8 @@ public class Demo {
         return "Hello There";
     }
 
+    void update(){
+        System.out.println("Something has been updated");
+    }
+
 }
